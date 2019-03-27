@@ -1,12 +1,21 @@
 # calculator
-making a calculator From scratch via python 
+
+this is a simple python projoect
+
+createing from scrach 
 
 
-hard code a caculator from pyhon
+initial goal:
+
+1,make the caculator actually working as is
+
+2,GUI, from tkinter
 
 
-goal:
+further idea:
 
-1,make the caculator actually working as is 
-2,GUI
-3,pack it for cross platform 
+1, pack this code, simple install by click
+
+2, maintain and updates 
+
+3, anything ......
